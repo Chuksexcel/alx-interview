@@ -44,4 +44,4 @@ guillaume@ubuntu:~/0x00$
 ```
 
 ## My Output
-<img src="https://https://github.com/Chuksexcel/alx-interview/blob/master/0x00-pascal_triangle/image.png"/>
+<img src="https://github.com/Chuksexcel/alx-interview/blob/master/0x00-pascal_triangle/image.png"/>
